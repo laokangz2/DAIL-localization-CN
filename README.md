@@ -1,1 +1,2 @@
-# DAIL-localization-CN
+恐怖黎明mod合集DAIL汉化
+欢迎热心人士一起汉化。
