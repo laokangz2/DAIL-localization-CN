@@ -1,51 +1,51 @@
 
 #CLASS NAMES AND UI COLORS
 
-tagSkillClassName01=Soldier
-tagSkillClassName02=Demolitionist
-tagSkillClassName03=Occultist
-tagSkillClassName04=Nightblade
-tagSkillClassName05=Arcanist
-tagSkillClassName06=Shaman
-tagSkillClassName07=^YNecromancer
-tagSkillClassName08=^YRanger
-tagSkillClassName09=^YCoronus
-tagSkillClassNameCoronus=^YCoronus
-tagSkillClassName10=^YFangshi
-tagSkillClassName11=^lFrost Knight
-tagSkillClassNameFrostKnight=^lFrost Knight
-tagSkillClassName12=^lElementalist
-tagSkillClassName13=^lTerror Knight
-tagSkillClassName14=^gArch Necromancer
-tagSkillClassName15=^gIllusionist
+tagSkillClassName01=战士
+tagSkillClassName02=爆破
+tagSkillClassName03=奥数
+tagSkillClassName04=夜刃
+tagSkillClassName05=神秘
+tagSkillClassName06=萨满
+tagSkillClassName07=^Y死灵师
+tagSkillClassName08=^Y游侠
+tagSkillClassName09=^Y审判
+tagSkillClassNameCoronus=^Y审判
+tagSkillClassName10=^Y方士
+tagSkillClassName11=^l冰霜骑士
+tagSkillClassNameFrostKnight=^l冰霜骑士
+tagSkillClassName12=^l元素师
+tagSkillClassName13=^l恐怖骑士
+tagSkillClassName14=^g虚灵师
+tagSkillClassName15=^g魔术师
 
-tagSkillClassName16=^bDefense
-tagSkillClassName17=^bHunting
-tagSkillClassName18=^bSpirit
-tagSkillClassName19=^bWarfare
-tagSkillClassName20=^bNature
-tagSkillClassName21=^bRogue
-tagSkillClassName22=^bEarth
-tagSkillClassName23=^bStorm
-tagSkillClassName24=^bDream
-tagClassName01=^bDefense
-tagClassName02=^bHunting
-tagClassName03=^bSpirit
-tagClassName04=^bWarfare
-tagClassName05=^bNature
-tagClassName06=^bRogue
-tagClassName07=^bEarth
-tagClassName08=^bStorm
-tagClassName09=^bDream
+tagSkillClassName16=^b防御专精
+tagSkillClassName17=^b狩猎专精
+tagSkillClassName18=^b死灵专精
+tagSkillClassName19=^b战斗专精
+tagSkillClassName20=^b自然专精
+tagSkillClassName21=^b盗贼专精
+tagSkillClassName22=^b大地专精
+tagSkillClassName23=^b风暴专精
+tagSkillClassName24=^b梦幻专精
+tagClassName01=^b防御专精
+tagClassName02=^b狩猎专精
+tagClassName03=^b死灵专精
+tagClassName04=^b战斗专精
+tagClassName05=^b自然专精
+tagClassName06=^b盗贼专精
+tagClassName07=^b大地专精
+tagClassName08=^b风暴专精
+tagClassName09=^b梦幻专精
 
-tagSkillClassName25=^pVoidcaller
-tagSkillClassNameDemon=^pVoidcaller
-tagSkillClassName26=^pGrove Keeper
-tagSkillClassName27=^pEngineer
-tagSkillClassName28=^iCenobite
-tagSkillClassNameWD=^iWitch Doctor
-tagSkillClassName30=^iDemon Hunter
-tagSkillClassNameDH=^iDemon Hunter
+tagSkillClassName25=^p虚空召唤
+tagSkillClassNameDemon=^p虚空召唤
+tagSkillClassName26=^p丛林守护
+tagSkillClassName27=^p工程师
+tagSkillClassName28=^i修道士
+tagSkillClassNameWD=^i巫医
+tagSkillClassName30=^i恶魔猎人
+tagSkillClassNameDH=^i恶魔猎人
 
 
 
