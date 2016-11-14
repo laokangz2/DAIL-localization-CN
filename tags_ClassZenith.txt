@@ -4,104 +4,104 @@
 #CLASS TERROR KNIGHT
 #ENUMERATION 13
 
-tagSkillClassDescription12=Traditionally, Elementalists were persons of entertainment in Elonis, whose affinity for conjuration was most intriguing. What with the occurence of the Grim Dawn, however, they have found a means to weaponize their mastery of the three elements: Fire, Cold, and Lightning.
-tagSkillClassDescription13=Hailing from the obsidian forest of Elonis, Terror Knights engage in combat according to two doctrines: Victory at any cost; Defeat only when there is nothing more to kill. To witness a Terror Knight in action is to witness the spread of insanity.
+tagSkillClassDescription12=传统意义上，元素师是Elonis大陆上的表演者，他们对咒语有着天生的亲和力。伴随着恐怖黎明的到来，他们找到了装备他们专精的三种元素：火焰，冰冷，闪电。
+tagSkillClassDescription13=致敬Elonis黑曜石森林，恐怖骑士根据2种教义战斗：不惜一切代价获胜，没有任何东西可以杀戮时才会失败。目睹恐怖骑士行动就是在见证疯狂传播。
 
 #***********************************************************************************************************************************
 #TERROR KNIGHT
 
-tagClass13SkillName00A=^lTerror Knight
-tagClass13SkillDescription00A=A vanguard of chaos and carnage.
+tagClass13SkillName00A=^l恐怖骑士
+tagClass13SkillDescription00A=混乱和屠杀的前锋
 
-tagClass13SkillName01A=Banish
-tagClass13SkillDescription01A=Smash your foe out of this life and into the next one. ^oBanish is a default attack modifier and can trigger Weapon Pool Skills.
-tagClass13SkillName01B=Blood Rage
-tagClass13SkillDescription01B=Push yourself past your limits to crush your opponent beneath insurmountable power.
-tagClass13SkillName01C=Smite
+tagClass13SkillName01A=放逐
+tagClass13SkillDescription01A=粉碎敌人的生命，然后下一个敌人。 ^o放逐作为默认武器攻击，可以出发武器技能。
+tagClass13SkillName01B=鲜血渴望
+tagClass13SkillDescription01B=超越身体极限，在不可逾越的力量之下粉碎你的对手。
+tagClass13SkillName01C=重击
 tagClass13SkillDescription01C="I threw down my enemy, and he fell from the high place, and broke the mountain-side where he smote it in his ruin."
 
-tagClass13SkillName02A=Suit Up
-tagClass13SkillDescription02A=Don armor worthy of a Knight of Enolis.
-tagClass13SkillName02B=Hand Armor
-tagClass13SkillName02C=Leg Armor
-tagClass13SkillName02D=Torso Armor
-tagClass13SkillName02E=Head Armor
+tagClass13SkillName02A=合身
+tagClass13SkillDescription02A=Enolis的伟大骑士装甲。
+tagClass13SkillName02B=手部护甲
+tagClass13SkillName02C=腿部护甲
+tagClass13SkillName02D=躯干护甲
+tagClass13SkillName02E=头部护甲
 
-tagClass13SkillName03A=Conquer
-tagClass13SkillDescription03A=Proclaim your victory before a fight even starts.
-tagClass13SkillName03B=Fortuna Adiuvat Fortis
-tagClass13SkillDescription03B=Victory will come to those with great willpower; even if they stole it from others.
+tagClass13SkillName03A=征服
+tagClass13SkillDescription03A=甚至在战斗开始之前宣布你的胜利。
+tagClass13SkillName03B=福耳图那女声之音
+tagClass13SkillDescription03B=胜利属于拥有强大意志力的人，就算它们从其他人那里偷取的。
 
-tagClass13SkillName04A=Engage
-tagClass13SkillDescription04A=Your enemies need not come to you; you shall come to them. ^oRequires a melee weapon.
-tagClass13SkillName04B=Deadly Assault
-tagClass13SkillDescription04B=Charge forth with unyielding force.
-tagClass13SkillName04C=Nowhere to Hide
-tagClass13SkillDescription04C=Push your assault ever onward with heightened frequency.
+tagClass13SkillName04A=交战
+tagClass13SkillDescription04A=你的敌人不必靠近你，你将主动靠近它们。^o需近战武器。
+tagClass13SkillName04B=致死打击
+tagClass13SkillDescription04B=使用不屈之力。
+tagClass13SkillName04C=无处可藏
+tagClass13SkillDescription04C=更高的频率使用你的攻击。
 
-tagClass13SkillName05A=Gore
-tagClass13SkillDescription05A=Impale an enemy upon your weapon with ferocity to make the lesser-willed flee. ^oRequires a melee weapon.
-tagClass13SkillName05B=Lust for Carnage
-tagClass13SkillDescription05B=Slice apart your surrounding foes; grow empowered upon their demise. ^oRequires a two-handed melee weapon.
-tagClass13SkillName05C=Carnivorous Slaughter
-tagClass13SkillDescription05C=Obliterate a target with a tremendous show of strength, and feast upon the damage done. ^oRequires a two-handed melee weapon.
+tagClass13SkillName05A=刺破
+tagClass13SkillDescription05A=残忍的将敌人钉在你的武器上，使之恐惧逃跑。 ^o需近战武器。
+tagClass13SkillName05B=杀戮的渴望
+tagClass13SkillDescription05B=切碎你周围的敌人，在死亡中获得控制权。^o需双手武器.
+tagClass13SkillName05C=血肉横飞
+tagClass13SkillDescription05C=无与伦比的力量抹杀一个目标，鲜血盛宴。 ^o需双手武器.
 
-tagClass13SkillName06A=Blood Siphon
-tagClass13SkillDescription06A=Terror Knights excel against groups of foes. You shall be no different.
-tagClass13SkillName06B=Thirst
-tagClass13SkillDescription06B=There is much vigor to take from your enemies, and you are quite thirsty. Drink on!
+tagClass13SkillName06A=鲜血吸取
+tagClass13SkillDescription06A=恐怖骑士对抗成群的敌人，无所畏惧。
+tagClass13SkillName06B=饥渴
+tagClass13SkillDescription06B=你是如此的饥渴，从敌人那个汲取如此多的活力，畅饮吧！
 
-tagClass13SkillName07A=Well of Fears
-tagClass13SkillDescription07A=Conjure a pool of terrific power that decays the rational thought of your enemies.
-tagClass13SkillName07B=Swarm of Fears
-tagClass13SkillDescription07B=Degrade the will of your foes to push on.
+tagClass13SkillName07A=极度恐惧
+tagClass13SkillDescription07A=创造可怕的力量，摧毁敌人的理智。
+tagClass13SkillName07B=集体恐慌
+tagClass13SkillDescription07B=削弱敌人的意志。
 
-tagClass13SkillName08A=Soldier of Madness
-tagClass13SkillDescription08A=While they further the spread of insanity, one must not forget that Terror Knights are just that - Knights, like any other.
+tagClass13SkillName08A=狂战士
+tagClass13SkillDescription08A=虽然他们散布蔓延疯狂，但是请不要忘记，恐怖骑士依然是骑士，跟其他骑士一样。
 
-tagClass13SkillName09A=Evocation of Terror
-tagClass13SkillDescription09A=A weapon art kept to the Knights of the Obsidian Forests, now unleashed upon the world. ^oRequires a two-handed melee weapon.
+tagClass13SkillName09A=召唤恐惧
+tagClass13SkillDescription09A=黑曜石森林中骑士的武器艺术，现在重现这个世界。^o需双手武器。
 
-tagClass13SkillName10A=Entropic Reign
-tagClass13SkillDescription10A=Your foes' descent into madness is mirrored by your own, but yours shall prove more powerful.
+tagClass13SkillName10A=熵之统治
+tagClass13SkillDescription10A=你的敌人被你侵蚀疯狂，但你应该变得更加强大。
 
 #***********************************************************************************************************************************
 #ELEMENTALIST
 
-tagClass12SkillName00A=^lElementalist
-tagClass12SkillDescription00A=Tricks of the trade for conjuration and sorcery.
+tagClass12SkillName00A=^l元素师
+tagClass12SkillDescription00A=咒语和巫术的技巧
 
-tagClass12SkillName01A=Ice Wall
-tagClass12SkillDescription01A=Conjure up a wall of ice ahead of you which chills and slows your enemies. {^n}^oSpawns 2; 2; 3; 3; 4; 4; 5; 6; 6; 7; 8; 8; 9; 10; 10; 12; 12; 13; 14; 14 ice crystals, based on investment rank.
+tagClass12SkillName01A=冰墙
+tagClass12SkillDescription01A=在你的前面召唤出冰墙，冰冷并减速敌人。{^n}^o产生 2; 2; 3; 3; 4; 4; 5; 6; 6; 7; 8; 8; 9; 10; 10; 12; 12; 13; 14; 14 冰晶, 基于投入点数。
 
-tagClass12SkillName02A=Fireball
-tagClass12SkillDescription02A=Hurl a conglomeration of molten rock toward your enemies.
-tagClass12SkillName02B=Barrage
-tagClass12SkillDescription02B=Bury your opponents in an onslaught of volcanic stone.
-tagClass12SkillName01C=Hellfire
-tagClass12SkillDescription01C=The flames of hell are unrelenting in their assault.
+tagClass12SkillName02A=火球
+tagClass12SkillDescription02A=向敌人投掷聚集的熔岩。
+tagClass12SkillName02B=密集火力
+tagClass12SkillDescription02B=将敌人埋葬于火山石的冲击中。
+tagClass12SkillName01C=地狱火
+tagClass12SkillDescription01C=无情的地狱火焰攻击。
 
-tagClass12SkillName03A=Chain Lightning
-tagClass12SkillDescription03A=Dazzle a crowd in an electrifying display of elementalism!
-tagClass12SkillName03B=Restructure
-tagClass12SkillDescription03B=Feed material energies into the power which surges from you.
+tagClass12SkillName03A=闪电链
+tagClass12SkillDescription03A=一簇耀眼的闪电元素。
+tagClass12SkillName03B=重组
+tagClass12SkillDescription03B=将能量输送到从身体里涌现出来的能量中。
 
-tagClass12SkillName04A=Elemental Armoring
-tagClass12SkillDescription04A=You conjurations cannot always keep enemies from hitting you. But it can make them think twice about trying again.
+tagClass12SkillName04A=元素护甲
+tagClass12SkillDescription04A=虽然不能完全阻挡敌人伤害你，但至少让其三思。
 
-tagClass12SkillName05A=Rider of the Storm
-tagClass12SkillDescription05A=A maelstrom of the elements surround and empowers you.
+tagClass12SkillName05A=风暴骑手
+tagClass12SkillDescription05A=元素的大漩涡围绕着你。
 
-tagClass12SkillName06A=Ice Surge
-tagClass12SkillDescription06A=Condense the air ahead of you into shards of ice.
-tagClass12SkillName06B=Cold Snap
-tagClass12SkillDescription06B=The area around you snaps to frigidity, occasionally bursting out violently.
+tagClass12SkillName06A=冰封汹涌
+tagClass12SkillDescription06A=使你面前的空气凝结成碎冰。
+tagClass12SkillName06B=寒流
+tagClass12SkillDescription06B=周围的区域变为严寒，进而猛烈爆发。
 
-tagClass12SkillName07A=Frost Armor
-tagClass12SkillDescription07A=Protect yourself with the strength of ice.
+tagClass12SkillName07A=冰霜护甲
+tagClass12SkillDescription07A=用无坚不摧的寒冰保护自己。
 
-tagClass12SkillName08A=Flameblade
-tagClass12SkillDescription08A=Originally used to wow crowds, this more potent sorcery is used to tear enemies asunder.
+tagClass12SkillName08A=火焰剑
+tagClass12SkillDescription08A=起初被用来轰动人群，现在被用来更佳有效的撕裂敌人。
 
 tagClass12SkillName09A=Breathe Fire
 tagClass12SkillDescription09A=Another incendiary conjuration historically used for entertainment and now made to burn assailants to ash.

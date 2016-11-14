@@ -19,7 +19,6 @@ tagSkillClassName13=^l恐怖骑士
 tagSkillClassName14=^g虚灵师
 tagSkillClassName15=^g魔术师
 
-
 tagSkillClassName16=^b防御专精
 tagSkillClassName17=^b狩猎专精
 tagSkillClassName18=^b死灵专精
