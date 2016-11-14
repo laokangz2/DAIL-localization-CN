@@ -3,14 +3,14 @@
 
 tagSkillClassName01=战士
 tagSkillClassName02=爆破
-tagSkillClassName03=奥数
+tagSkillClassName03=神秘
 tagSkillClassName04=夜刃
-tagSkillClassName05=神秘
+tagSkillClassName05=奥术
 tagSkillClassName06=萨满
 tagSkillClassName07=^Y死灵师
 tagSkillClassName08=^Y游侠
-tagSkillClassName09=^Y审判
-tagSkillClassNameCoronus=^Y审判
+tagSkillClassName09=^YCoronus
+tagSkillClassNameCoronus=^YCoronus
 tagSkillClassName10=^Y方士
 tagSkillClassName11=^l冰霜骑士
 tagSkillClassNameFrostKnight=^l冰霜骑士
@@ -18,6 +18,7 @@ tagSkillClassName12=^l元素师
 tagSkillClassName13=^l恐怖骑士
 tagSkillClassName14=^g虚灵师
 tagSkillClassName15=^g魔术师
+
 
 tagSkillClassName16=^b防御专精
 tagSkillClassName17=^b狩猎专精
